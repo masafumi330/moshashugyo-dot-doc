@@ -25,7 +25,7 @@ export default function Home() {
             <a href="">登録する</a><img src="" alt="" />
           </div>
           <div>
-
+            <Image src="/top-kv-illustration.svg" alt="top-kv-illustration" width="500" height="500"/>
           </div>
         </div>
 
@@ -34,17 +34,17 @@ export default function Home() {
           <div>
             <ol>
               <li>
-                <img src="" alt="" />
+                <Image src="/icon-function.svg" alt="icon-function" width="100" height="100"/>
                 <p>シンプルな機能</p>
                 <p>多機能でない分、わかりやすく・使いやす機能。書くこと、共有することにのみ特化。</p>
               </li>
               <li>
-                <img src="" alt="" />
+                <Image src="/icon-document.svg" alt="icon-document" width="100" height="100"/>
                 <p>綺麗なドキュメント</p>
                 <p>見やすいドキュメント、見やすい管理画面。シンプルでわかりやすいデザイン。</p>
               </li>
               <li>
-                <img src="" alt="" />
+                <Image src="/icon-editor.svg" alt="icon-editor" width="100" height="100"/>
                 <p>書きやすいエディタ</p>
                 <p>ドキュメント作成画面の装飾はショートカットを用意。慣れればサクサク。</p>
               </li>
@@ -55,17 +55,17 @@ export default function Home() {
         <div>
           <h2>.docの機能</h2>
           <div>
-            <img src="" alt="" />
+            <Image src="/top-function-document@2x.png" alt="top-function-document" width="100" height="100"/>
             <p>ドキュメント作成</p>
             <p>装飾はボタンをワンクリック、もしくはショートカットキーで、綺麗に作成可能。</p>
           </div>
           <div>
-            <img src="" alt="" />
+            <Image src="/top-function-share@2x.png" alt="top-function-share" width="100" height="100"/>
             <p>webページとして共有可能</p>
             <p>パスワード付き共有/一般公開（URLを知っていれば閲覧可）／非公開の3つを用意。</p>
           </div>
           <div>
-            <img src="" alt="" />
+            <Image src="/top-function-tag@2x.png" alt="top-function-tag" width="100" height="100"/>
             <p>タグでドキュメントを管理</p>
             <p>ドキュメントはタグ付けすることで、分類が可能。もちろん追加削除／複数指定も可能。</p>
           </div>
