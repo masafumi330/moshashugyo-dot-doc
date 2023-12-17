@@ -1,0 +1,1 @@
+# moshashugyo-dot-doc
